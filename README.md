@@ -1,4 +1,4 @@
-# EntregaSprint3DisruptiveArchitectures
+# EntregaSprint4DisruptiveArchitectures
 Entrega do projeto de challenge da matéria de Disruptive Architectures.
 
 # TURMA - 2TDSS
